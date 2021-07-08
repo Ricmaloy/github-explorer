@@ -29,7 +29,7 @@ $ yarn start
 ```
 
 # Funcionalidades
-[](https://i.imgur.com/xe3KsPa.gif)
+![](https://i.imgur.com/xe3KsPa.gif)
 
 * Pesquisar por perfil no Github
 * Mostrar informações sobre o perfil e repositórios
