@@ -25,4 +25,8 @@ export const HeaderContainer = styled.header`
             width: 20px;
         }
     }
+
+    @media(max-width: 650px) {
+        margin-bottom: 10px;
+    }
 `;
